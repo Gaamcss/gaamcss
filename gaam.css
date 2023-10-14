@@ -10852,6 +10852,511 @@
 .wid-2099pr{width: 2099%;}
 .wid-2100pr{width: 2100%;}
 
+
+/* width in vw */
+
+.wid-0vw{width: 0vw;}
+.wid-10vw{width: 10vw;}
+.wid-20vw{width: 20vw;}
+.wid-30vw{width: 30vw;}
+.wid-40vw{width: 40vw;}
+.wid-50vw{width: 50vw;}
+.wid-60vw{width: 60vw;}
+.wid-70vw{width: 70vw;}
+.wid-80vw{width: 80vw;}
+.wid-90vw{width: 90vw;}
+.wid-100vw{width: 100vw;}
+
+
+.wid-110vw{width: 110vw;}
+.wid-120vw{width: 120vw;}
+.wid-130vw{width: 130vw;}
+.wid-140vw{width: 140vw;}
+.wid-150vw{width: 150vw;}
+.wid-160vw{width: 160vw;}
+.wid-170vw{width: 170vw;}
+.wid-180vw{width: 180vw;}
+.wid-190vw{width: 190vw;}
+.wid-200vw{width: 200vw;}
+
+
+.wid-1vw{width: 1vw;}
+.wid-11vw{width: 11vw;}
+.wid-21vw{width: 21vw;}
+.wid-31vw{width: 31vw;}
+.wid-41vw{width: 41vw;}
+.wid-51vw{width: 51vw;}
+.wid-61vw{width: 61vw;}
+.wid-71vw{width: 71vw;}
+.wid-81vw{width: 81vw;}
+.wid-91vw{width: 91vw;}
+.wid-101vw{width: 101vw;}
+
+
+.wid-111vw{width: 111vw;}
+.wid-121vw{width: 121vw;}
+.wid-131vw{width: 131vw;}
+.wid-141vw{width: 141vw;}
+.wid-151vw{width: 151vw;}
+.wid-161vw{width: 161vw;}
+.wid-171vw{width: 171vw;}
+.wid-181vw{width: 181vw;}
+.wid-191vw{width: 191vw;}
+.wid-201vw{width: 201vw;}
+
+
+.wid-2vw{width: 2vw;}
+.wid-12vw{width: 12vw;}
+.wid-22vw{width: 22vw;}
+.wid-32vw{width: 32vw;}
+.wid-42vw{width: 42vw;}
+.wid-52vw{width: 52vw;}
+.wid-62vw{width: 62vw;}
+.wid-72vw{width: 72vw;}
+.wid-82vw{width: 82vw;}
+.wid-92vw{width: 92vw;}
+.wid-102vw{width: 102vw;}
+
+
+.wid-112vw{width: 112vw;}
+.wid-122vw{width: 122vw;}
+.wid-132vw{width: 132vw;}
+.wid-142vw{width: 142vw;}
+.wid-152vw{width: 152vw;}
+.wid-162vw{width: 162vw;}
+.wid-172vw{width: 172vw;}
+.wid-182vw{width: 182vw;}
+.wid-192vw{width: 192vw;}
+.wid-202vw{width: 202vw;}
+
+
+.wid-3vw{width: 3vw;}
+.wid-13vw{width: 13vw;}
+.wid-23vw{width: 23vw;}
+.wid-33vw{width: 33vw;}
+.wid-43vw{width: 43vw;}
+.wid-53vw{width: 53vw;}
+.wid-63vw{width: 63vw;}
+.wid-73vw{width: 73vw;}
+.wid-83vw{width: 83vw;}
+.wid-93vw{width: 93vw;}
+.wid-103vw{width: 103vw;}
+
+
+.wid-113vw{width: 113vw;}
+.wid-123vw{width: 123vw;}
+.wid-133vw{width: 133vw;}
+.wid-143vw{width: 143vw;}
+.wid-153vw{width: 153vw;}
+.wid-163vw{width: 163vw;}
+.wid-173vw{width: 173vw;}
+.wid-183vw{width: 183vw;}
+.wid-193vw{width: 193vw;}
+.wid-203vw{width: 203vw;}
+
+
+.wid-4vw{width: 4vw;}
+.wid-14vw{width: 14vw;}
+.wid-24vw{width: 24vw;}
+.wid-34vw{width: 34vw;}
+.wid-44vw{width: 44vw;}
+.wid-54vw{width: 54vw;}
+.wid-64vw{width: 64vw;}
+.wid-74vw{width: 74vw;}
+.wid-84vw{width: 84vw;}
+.wid-94vw{width: 94vw;}
+.wid-104vw{width: 104vw;}
+
+
+.wid-114vw{width: 114vw;}
+.wid-124vw{width: 124vw;}
+.wid-134vw{width: 134vw;}
+.wid-144vw{width: 144vw;}
+.wid-154vw{width: 154vw;}
+.wid-164vw{width: 164vw;}
+.wid-174vw{width: 174vw;}
+.wid-184vw{width: 184vw;}
+.wid-194vw{width: 194vw;}
+.wid-204vw{width: 204vw;}
+
+
+.wid-5vw{width: 5vw;}
+.wid-15vw{width: 15vw;}
+.wid-25vw{width: 25vw;}
+.wid-35vw{width: 35vw;}
+.wid-45vw{width: 45vw;}
+.wid-55vw{width: 55vw;}
+.wid-65vw{width: 65vw;}
+.wid-75vw{width: 75vw;}
+.wid-85vw{width: 85vw;}
+.wid-95vw{width: 95vw;}
+.wid-105vw{width: 105vw;}
+
+
+.wid-115vw{width: 115vw;}
+.wid-125vw{width: 125vw;}
+.wid-135vw{width: 135vw;}
+.wid-145vw{width: 145vw;}
+.wid-155vw{width: 155vw;}
+.wid-165vw{width: 165vw;}
+.wid-175vw{width: 175vw;}
+.wid-185vw{width: 185vw;}
+.wid-195vw{width: 195vw;}
+.wid-205vw{width: 205vw;}
+
+
+.wid-6vw{width: 6vw;}
+.wid-16vw{width: 16vw;}
+.wid-26vw{width: 26vw;}
+.wid-36vw{width: 36vw;}
+.wid-46vw{width: 46vw;}
+.wid-56vw{width: 56vw;}
+.wid-66vw{width: 66vw;}
+.wid-76vw{width: 76vw;}
+.wid-86vw{width: 86vw;}
+.wid-96vw{width: 96vw;}
+.wid-106vw{width: 106vw;}
+
+
+.wid-116vw{width: 116vw;}
+.wid-126vw{width: 126vw;}
+.wid-136vw{width: 136vw;}
+.wid-146vw{width: 146vw;}
+.wid-156vw{width: 156vw;}
+.wid-166vw{width: 166vw;}
+.wid-176vw{width: 176vw;}
+.wid-186vw{width: 186vw;}
+.wid-196vw{width: 196vw;}
+.wid-206vw{width: 206vw;}
+
+
+.wid-7vw{width: 7vw;}
+.wid-17vw{width: 17vw;}
+.wid-27vw{width: 27vw;}
+.wid-37vw{width: 37vw;}
+.wid-47vw{width: 47vw;}
+.wid-57vw{width: 57vw;}
+.wid-67vw{width: 67vw;}
+.wid-77vw{width: 77vw;}
+.wid-87vw{width: 87vw;}
+.wid-97vw{width: 97vw;}
+.wid-107vw{width: 107vw;}
+
+
+.wid-117vw{width: 117vw;}
+.wid-127vw{width: 127vw;}
+.wid-137vw{width: 137vw;}
+.wid-147vw{width: 147vw;}
+.wid-157vw{width: 157vw;}
+.wid-167vw{width: 167vw;}
+.wid-177vw{width: 177vw;}
+.wid-187vw{width: 187vw;}
+.wid-197vw{width: 197vw;}
+.wid-207vw{width: 207vw;}
+
+
+.wid-8vw{width: 8vw;}
+.wid-18vw{width: 18vw;}
+.wid-28vw{width: 28vw;}
+.wid-38vw{width: 38vw;}
+.wid-48vw{width: 48vw;}
+.wid-58vw{width: 58vw;}
+.wid-68vw{width: 68vw;}
+.wid-78vw{width: 78vw;}
+.wid-88vw{width: 88vw;}
+.wid-98vw{width: 98vw;}
+.wid-108vw{width: 108vw;}
+
+
+.wid-118vw{width: 118vw;}
+.wid-128vw{width: 128vw;}
+.wid-138vw{width: 138vw;}
+.wid-148vw{width: 148vw;}
+.wid-158vw{width: 158vw;}
+.wid-168vw{width: 168vw;}
+.wid-178vw{width: 178vw;}
+.wid-188vw{width: 188vw;}
+.wid-198vw{width: 198vw;}
+.wid-208vw{width: 208vw;}
+
+
+.wid-9vw{width: 9vw;}
+.wid-19vw{width: 19vw;}
+.wid-29vw{width: 29vw;}
+.wid-39vw{width: 39vw;}
+.wid-49vw{width: 49vw;}
+.wid-59vw{width: 59vw;}
+.wid-69vw{width: 69vw;}
+.wid-79vw{width: 79vw;}
+.wid-89vw{width: 89vw;}
+.wid-99vw{width: 99vw;}
+
+
+.wid-19vw{width: 91vw;}
+.wid-12vw{width: 92vw;}
+.wid-13vw{width: 93vw;}
+.wid-43vw{width: 94vw;}
+.wid-53vw{width: 95vw;}
+.wid-56vw{width: 96vw;}
+.wid-57vw{width: 97vw;}
+.wid-58vw{width: 98vw;}
+.wid-59vw{width: 99vw;}
+.wid-20vw{width: 20vw;}
+.wid-109vw{width: 109vw;}
+
+/* height in vh */
+
+.hit-0vh{height: 0vh;}
+.hit-10vh{height: 10vh;}
+.hit-20vh{height: 20vh;}
+.hit-30vh{height: 30vh;}
+.hit-40vh{height: 40vh;}
+.hit-50vh{height: 50vh;}
+.hit-60vh{height: 60vh;}
+.hit-70vh{height: 70vh;}
+.hit-80vh{height: 80vh;}
+.hit-90vh{height: 90vh;}
+.hit-100vh{height: 100vh;}
+
+
+.hit-110vh{height: 110vh;}
+.hit-120vh{height: 120vh;}
+.hit-130vh{height: 130vh;}
+.hit-140vh{height: 140vh;}
+.hit-150vh{height: 150vh;}
+.hit-160vh{height: 160vh;}
+.hit-170vh{height: 170vh;}
+.hit-180vh{height: 180vh;}
+.hit-190vh{height: 190vh;}
+.hit-200vh{height: 200vh;}
+
+
+.hit-1vh{height: 1vh0vh;}
+.hit-11vh{height: 11vh0vh;}
+.hit-21vh{height: 21vh0vh;}
+.hit-31vh{height: 31vh0vh;}
+.hit-41vh{height: 41vh0vh;}
+.hit-51vh{height: 51vh0vh;}
+.hit-61vh{height: 61vh0vh;}
+.hit-71vh{height: 71vh0vh;}
+.hit-81vh{height: 81vh0vh;}
+.hit-91vh{height: 91vh0vh;}
+.hit-101vh{height: 101vh0vh;}
+
+
+.hit-111vh{height: 111vh0vh;}
+.hit-121vh{height: 121vh0vh;}
+.hit-131vh{height: 131vh0vh;}
+.hit-141vh{height: 141vh0vh;}
+.hit-151vh{height: 151vh0vh;}
+.hit-161vh{height: 161vh0vh;}
+.hit-171vh{height: 171vh0vh;}
+.hit-181vh{height: 181vh0vh;}
+.hit-191vh{height: 191vh0vh;}
+.hit-201vh{height: 201vh0vh;}
+
+
+.hit-2vh{height: 2vh0vh;}
+.hit-12vh{height: 12vh0vh;}
+.hit-22vh{height: 22vh0vh;}
+.hit-32vh{height: 32vh0vh;}
+.hit-42vh{height: 42vh0vh;}
+.hit-52vh{height: 52vh0vh;}
+.hit-62vh{height: 62vh0vh;}
+.hit-72vh{height: 72vh0vh;}
+.hit-82vh{height: 82vh0vh;}
+.hit-92vh{height: 92vh0vh;}
+.hit-102vh{height: 102vh0vh;}
+
+
+.hit-112vh{height: 112vh0vh;}
+.hit-122vh{height: 122vh0vh;}
+.hit-132vh{height: 132vh0vh;}
+.hit-142vh{height: 142vh0vh;}
+.hit-152vh{height: 152vh0vh;}
+.hit-162vh{height: 162vh0vh;}
+.hit-172vh{height: 172vh0vh;}
+.hit-182vh{height: 182vh0vh;}
+.hit-192vh{height: 192vh0vh;}
+.hit-202vh{height: 202vh0vh;}
+
+
+.hit-3vh{height: 3vh0vh;}
+.hit-13vh{height: 13vh0vh;}
+.hit-23vh{height: 23vh0vh;}
+.hit-33vh{height: 33vh0vh;}
+.hit-43vh{height: 43vh0vh;}
+.hit-53vh{height: 53vh0vh;}
+.hit-63vh{height: 63vh0vh;}
+.hit-73vh{height: 73vh0vh;}
+.hit-83vh{height: 83vh0vh;}
+.hit-93vh{height: 93vh0vh;}
+.hit-103vh{height: 103vh0vh;}
+
+
+.hit-113vh{height: 113vh0vh;}
+.hit-123vh{height: 123vh0vh;}
+.hit-133vh{height: 133vh0vh;}
+.hit-143vh{height: 143vh0vh;}
+.hit-153vh{height: 153vh0vh;}
+.hit-163vh{height: 163vh0vh;}
+.hit-173vh{height: 173vh0vh;}
+.hit-183vh{height: 183vh0vh;}
+.hit-193vh{height: 193vh0vh;}
+.hit-203vh{height: 203vh0vh;}
+
+
+.hit-4vh{height: 4vh0vh;}
+.hit-14vh{height: 14vh0vh;}
+.hit-24vh{height: 24vh0vh;}
+.hit-34vh{height: 34vh0vh;}
+.hit-44vh{height: 44vh0vh;}
+.hit-54vh{height: 54vh0vh;}
+.hit-64vh{height: 64vh0vh;}
+.hit-74vh{height: 74vh0vh;}
+.hit-84vh{height: 84vh0vh;}
+.hit-94vh{height: 94vh0vh;}
+.hit-104vh{height: 104vh0vh;}
+
+
+.hit-114vh{height: 114vh0vh;}
+.hit-124vh{height: 124vh0vh;}
+.hit-134vh{height: 134vh0vh;}
+.hit-144vh{height: 144vh0vh;}
+.hit-154vh{height: 154vh0vh;}
+.hit-164vh{height: 164vh0vh;}
+.hit-174vh{height: 174vh0vh;}
+.hit-184vh{height: 184vh0vh;}
+.hit-194vh{height: 194vh0vh;}
+.hit-204vh{height: 204vh0vh;}
+
+
+.hit-5vh{height: 5vh0vh;}
+.hit-15vh{height: 15vh0vh;}
+.hit-25vh{height: 25vh0vh;}
+.hit-35vh{height: 35vh0vh;}
+.hit-45vh{height: 45vh0vh;}
+.hit-55vh{height: 55vh0vh;}
+.hit-65vh{height: 65vh0vh;}
+.hit-75vh{height: 75vh0vh;}
+.hit-85vh{height: 85vh0vh;}
+.hit-95vh{height: 95vh0vh;}
+.hit-105vh{height: 105vh0vh;}
+
+
+.hit-115vh{height: 115vh0vh;}
+.hit-125vh{height: 125vh0vh;}
+.hit-135vh{height: 135vh0vh;}
+.hit-145vh{height: 145vh0vh;}
+.hit-155vh{height: 155vh0vh;}
+.hit-165vh{height: 165vh0vh;}
+.hit-175vh{height: 175vh0vh;}
+.hit-185vh{height: 185vh0vh;}
+.hit-195vh{height: 195vh0vh;}
+.hit-205vh{height: 205vh0vh;}
+
+
+.hit-6vh{height: 6vh0vh;}
+.hit-16vh{height: 16vh0vh;}
+.hit-26vh{height: 26vh0vh;}
+.hit-36vh{height: 36vh0vh;}
+.hit-46vh{height: 46vh0vh;}
+.hit-56vh{height: 56vh0vh;}
+.hit-66vh{height: 66vh0vh;}
+.hit-76vh{height: 76vh0vh;}
+.hit-86vh{height: 86vh0vh;}
+.hit-96vh{height: 96vh0vh;}
+.hit-106vh{height: 106vh0vh;}
+
+
+.hit-116vh{height: 116vh0vh;}
+.hit-126vh{height: 126vh0vh;}
+.hit-136vh{height: 136vh0vh;}
+.hit-146vh{height: 146vh0vh;}
+.hit-156vh{height: 156vh0vh;}
+.hit-166vh{height: 166vh0vh;}
+.hit-176vh{height: 176vh0vh;}
+.hit-186vh{height: 186vh0vh;}
+.hit-196vh{height: 196vh0vh;}
+.hit-206vh{height: 206vh0vh;}
+
+
+.hit-7vh{height: 7vh0vh;}
+.hit-17vh{height: 17vh0vh;}
+.hit-27vh{height: 27vh0vh;}
+.hit-37vh{height: 37vh0vh;}
+.hit-47vh{height: 47vh0vh;}
+.hit-57vh{height: 57vh0vh;}
+.hit-67vh{height: 67vh0vh;}
+.hit-77vh{height: 77vh0vh;}
+.hit-87vh{height: 87vh0vh;}
+.hit-97vh{height: 97vh0vh;}
+.hit-107vh{height: 107vh0vh;}
+
+
+.hit-117vh{height: 117vh0vh;}
+.hit-127vh{height: 127vh0vh;}
+.hit-137vh{height: 137vh0vh;}
+.hit-147vh{height: 147vh0vh;}
+.hit-157vh{height: 157vh0vh;}
+.hit-167vh{height: 167vh0vh;}
+.hit-177vh{height: 177vh0vh;}
+.hit-187vh{height: 187vh0vh;}
+.hit-197vh{height: 197vh0vh;}
+.hit-207vh{height: 207vh0vh;}
+
+
+.hit-8vh{height: 8vh0vh;}
+.hit-18vh{height: 18vh0vh;}
+.hit-28vh{height: 28vh0vh;}
+.hit-38vh{height: 38vh0vh;}
+.hit-48vh{height: 48vh0vh;}
+.hit-58vh{height: 58vh0vh;}
+.hit-68vh{height: 68vh0vh;}
+.hit-78vh{height: 78vh0vh;}
+.hit-88vh{height: 88vh0vh;}
+.hit-98vh{height: 98vh0vh;}
+.hit-108vh{height: 108vh0vh;}
+
+
+.hit-118vh{height: 118vh0vh;}
+.hit-128vh{height: 128vh0vh;}
+.hit-138vh{height: 138vh0vh;}
+.hit-148vh{height: 148vh0vh;}
+.hit-158vh{height: 158vh0vh;}
+.hit-168vh{height: 168vh0vh;}
+.hit-178vh{height: 178vh0vh;}
+.hit-188vh{height: 188vh0vh;}
+.hit-198vh{height: 198vh0vh;}
+.hit-208vh{height: 208vh0vh;}
+
+
+.hit-9vh{height: 9vh0vh;}
+.hit-19vh{height: 19vh0vh;}
+.hit-29vh{height: 29vh0vh;}
+.hit-39vh{height: 39vh0vh;}
+.hit-49vh{height: 49vh0vh;}
+.hit-59vh{height: 59vh0vh;}
+.hit-69vh{height: 69vh0vh;}
+.hit-79vh{height: 79vh0vh;}
+.hit-89vh{height: 89vh0vh;}
+.hit-99vh{height: 99vh0vh;}
+
+
+.hit-19vh{height: 91vh0vh;}
+.hit-12vh{height: 92vh0vh;}
+.hit-13vh{height: 93vh0vh;}
+.hit-43vh{height: 94vh0vh;}
+.hit-53vh{height: 95vh0vh;}
+.hit-56vh{height: 96vh0vh;}
+.hit-57vh{height: 97vh0vh;}
+.hit-58vh{height: 98vh0vh;}
+.hit-59vh{height: 99vh0vh;}
+.hit-20vh{height: 20vh;}
+.hit-109vh{height: 109vh0vh;}
+
+
+
 /* hight in %=pr */
 
 
