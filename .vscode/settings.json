@@ -1,3 +1,4 @@
 {
-     "editor.colorDecoratorsLimit": 30500
+     "editor.colorDecoratorsLimit": 30500,
+     "liveServer.settings.port": 5501
 }
